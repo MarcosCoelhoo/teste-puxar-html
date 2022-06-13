@@ -10,7 +10,7 @@ document.write(`
       <span class="hamburger"></span>
     </button>
     <ul class="menu">
-      <li><a href="conheca-nos.html">Conheça-nos</a></li>
+      <li><a href="conheca.html">Conheça-nos</a></li>
       <li><a href="contato.html">Contacto</a></li>
       <li><a href="ementa.html">Nossa Ementa</a></li>
     </ul>

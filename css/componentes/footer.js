@@ -6,7 +6,7 @@ document.write(`
   </div>
   <div class="informacao">
     <h2>Informações</h2>
-    <a href="conheca-nos.html">Conheça-nos</a>
+    <a href="conheca.html">Conheça-nos</a>
     <a href="contato.html">Contacto</a>
     <a href="ementa.html">Nossa Ementa</a>
   </div>
@@ -22,4 +22,4 @@ document.write(`
   </div>
 </div>
 </footer>
-`)
+`);
